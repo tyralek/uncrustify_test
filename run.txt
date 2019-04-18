@@ -1,0 +1,7 @@
+/Tools/CodingStandard/uncrustify-0.68.1-win64/uncrustify.exe -c uncrustify.cfg -p debug.txt -f Example.hpp
+Segmentation fault
+
+
+/Tools/CodingStandard/uncrustify-0.68.1-win64/uncrustify.exe -c uncrustify.cfg Example.hpp
+Output suffix: .uncrustify
+Parsing: Example.hpp as language CPP
